@@ -1,6 +1,5 @@
 package com.example;
 
-import com.exemple.Cache;
 import org.junit.Assert;
 import org.junit.Test;
 
